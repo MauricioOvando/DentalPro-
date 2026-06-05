@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "823504267325",
+    "project_id": "dentalpro-deb76",
+    "storage_bucket": "dentalpro-deb76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823504267325:android:3a85e0f5b65b1688e6a254",
+        "android_client_info": {
+          "package_name": "com.example.dentalpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823504267325-73ciine3d1mq7disslbg1j7hcc040ao7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dentalpro",
+            "certificate_hash": "e7acceffdef0e3c8a2e84e961dcb85c1bb1b066c"
+          }
+        },
+        {
+          "client_id": "823504267325-d00f945o7p4stluuidv0a7al626amtmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5cGeeeIzLpU-055Eez8o5135vFViBmE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823504267325-d00f945o7p4stluuidv0a7al626amtmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
